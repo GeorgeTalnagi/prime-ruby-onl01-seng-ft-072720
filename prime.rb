@@ -5,3 +5,5 @@ return true if number == 2
 (2..number-1).each {|int| return false if number % int == 0}
   true 
 end
+
+#followed along with the youtube video could not figure this one out by myself 
